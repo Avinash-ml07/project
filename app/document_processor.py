@@ -2,11 +2,11 @@ import pytesseract
 import cv2
 from PIL import Image
 import boto3
-from textractor import Textractor
+from textractor import TExtractor
 
 class DocumentProcessor:
     def __init__(self):
-        self.textract_client = Textractor(profile_name="default")
+        self.textract_client = TExtractor()
 
     def process_with_tesseract(self, image_path):
         img = cv2.imread(image_path)  # Read the image using OpenCV

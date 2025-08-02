@@ -123,7 +123,7 @@ class HackRxRAGSystem:
 # Usage example
 def main():
     # Initialize system
-    rag_system = HackRxRAGSystem(pinecone_api_key="your-pinecone-api-key")
+    rag_system = HackRxRAGSystem(pinecone_api_key="PINECONE_API_KEY")
     
     # Process documents
     document_paths = [
