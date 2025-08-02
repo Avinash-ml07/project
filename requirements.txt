@@ -15,4 +15,4 @@ tiktoken
 boto3
 textractor
 numpy
-sckit-learn
+scikit-learn
