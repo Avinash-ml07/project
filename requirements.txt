@@ -4,7 +4,7 @@ pytesseract
 pdfminer.six
 python-docx
 sentence-transformers
-pinecone-client
+pinecone
 spacy
 rank_bm25
 torch
@@ -16,3 +16,4 @@ boto3
 textractor
 numpy
 scikit-learn
+python-dotenv
