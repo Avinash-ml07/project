@@ -3,6 +3,9 @@ from pydantic import BaseModel
 from .rag_system import HackRxRAGSystem
 import tempfile
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = FastAPI()
 
