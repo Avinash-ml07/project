@@ -123,8 +123,7 @@ Start the FastAPI server using Uvicorn with hot reload:
 ```bash
 uvicorn app.main:app --reload
 ```
-Visit the interactive API docs at:
-http://127.0.0.1:8000/docs
+
 
 ---
 
@@ -223,5 +222,6 @@ Thanks to the open-source community for FastAPI, Hugging Face Transformers, Pine
 
 
 Happy coding! 🚀 Feel free to raise issues or contact for help.
+
 
 
