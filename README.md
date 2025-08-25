@@ -1,5 +1,5 @@
 
-# HackRx 6.0 RAG System: Intelligent Document Q&A with FastAPI and Large Language Models
+# RAG System: Intelligent Document Q&A with FastAPI and Large Language Models
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -223,4 +223,5 @@ Thanks to the open-source community for FastAPI, Hugging Face Transformers, Pine
 
 
 Happy coding! 🚀 Feel free to raise issues or contact for help.
+
 
