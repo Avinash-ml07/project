@@ -86,7 +86,7 @@ Entire pipeline is built for low latency (<1.5s), high accuracy, and scalable mi
 ### Installation
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/hackrx_rag.git
+git clone https://github.com/Avinash-ml07/hackrx_rag.git
 cd hackrx_rag
 ```
 
@@ -220,6 +220,7 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 Inspired by the HackRx 6.0 challenge
 Thanks to the open-source community for FastAPI, Hugging Face Transformers, Pinecone, and related tools
-Original codebase by [Your Name or Team Name]
+
 
 Happy coding! 🚀 Feel free to raise issues or contact for help.
+
