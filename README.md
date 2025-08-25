@@ -160,7 +160,7 @@ Receive concise answers grounded in cited text chunks.
 
 ## Project Structure
 ```
-hackrx_rag/
+rag_system/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py               # FastAPI app and endpoints
@@ -222,6 +222,7 @@ Thanks to the open-source community for FastAPI, Hugging Face Transformers, Pine
 
 
 Happy coding! 🚀 Feel free to raise issues or contact for help.
+
 
 
 
